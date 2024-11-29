@@ -22,12 +22,12 @@ A estrutura do projeto está organizada da seguinte forma:
 - **Sistema Operacional:** O código foi desenvolvido e testado no Windows, Linux e macOS.
 
 ## Como Rodar o Projeto
-cd /meu-projeto-grafo/src
-javac *.java -d ../bin 
+- **cd /meu-projeto-grafo/src**
+- **javac *.java -d ../bin**
 
 ### Aqui o código vai compilar por inteiro e enviar o código compilado para a pasta bin 
 
-- **cd ../bin
-- **java Main
+- **cd ../bin**
+- **java Main**
 
 ### Depois apenas execute o código na pasta do bin, e ele irá imprimir o valor

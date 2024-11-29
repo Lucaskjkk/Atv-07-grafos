@@ -25,9 +25,9 @@ A estrutura do projeto está organizada da seguinte forma:
 cd /meu-projeto-grafo/src
 javac *.java -d ../bin 
 
-# Aqui o código vai compilar por inteiro e enviar o código compilado para a pasta bin 
+### Aqui o código vai compilar por inteiro e enviar o código compilado para a pasta bin 
 
-cd ../bin
-java Main
+- **cd ../bin
+- **java Main
 
-# Depois apenas execute o código na pasta do bin, e ele irá imprimir o valor
+### Depois apenas execute o código na pasta do bin, e ele irá imprimir o valor
